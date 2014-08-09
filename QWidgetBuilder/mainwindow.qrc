@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="MainWindow"/>
+  <qresource>
+    <file>ui/Form1.ui</file>
+    <file>ui/Form2.ui</file>
+    <file>ui/Form3.ui</file>
+  </qresource>
+</RCC>
